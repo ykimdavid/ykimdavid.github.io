@@ -1,0 +1,34 @@
+---
+layout: post
+title: On Anxiety
+---
+
+Last night, I suffered from a really bad anxiety attack, induced by weed. It came on slowly, manifesting itself first as a little social anxiety, but eventually reaching a point of full psychosis. I remember the panic that I felt, the panic that my mind was regressing to old, familiar anxious thought patterns that I had worked so hard to overcome through therapy and mindfulness. It seemed to me that once I lose myself in this anxiety, it would be very difficult for me to get out; the changes that my mind underwent during this high would remain for months afterwards. This was before I knew that weed-induced psychosis was a real thing, so I tried to hold on to the idea that all of this will be over after, that this panic and fear was just the drugs, and nothing permanent would come from this. You can imagine that finding out weed-induced psychosis was a real thing didn't exactly assuage my fears. Luckily, I was able to come out of the experience more or less myself, but I can't shake the feeling that there was a real danger of me losing myself, which was both fascinating and terrifying.
+
+Needless to say, last night was a traumatic experience for me, and I'm writing a little shell-shocked, trying to piece this all together. I've had a few experiences with drugs in the past where I felt these feelings of dissociation, panic, and paranoia; I've experienced even greater dissociations with reality with shrooms and just as bad anxiety with LSD. This was a common theme with my drug use, and it began in highschool, as I began to get more and more anxiety whenever I got high. These anxieties quickly made themselves at home in my regular, sober life.
+
+Now to the actual events of last night. I took 10mg of edibles with my sister to celebrate 4/20/2020. We took them late, around 9:30 PM. I called two of my friends and we just hung out, playing jackbox games. At some point in the night, I got really self conscious and self-critical thoughts that I had surpressed to murmurs began to grow in strength. I felt awkward and judged for it, and just wanted to be alone. I told everyone I needed to sleep at around 12, and retreated to my bed. It was there, when I was alone with my thoughts, that I started to fall deeper into this pit of anxiety, a place that felt so familiar and that I worked so hard to get out of. In a panic that I would forget the practices and work that I had done to combat this anxiety, I wrote down this in my iphone:
+
+>dont u ever forget
+>you are in charge of ur thoughts
+>you can always direct them to the positive
+>the beautiful and the self affirming
+>that is the one true power you have
+
+It truly did feel like I was closing a door, that once I forgot this truth, that everything was in my head, I would have to work again to discover it. The fact that the light had been revealed to me before, that I had some progress in conquering my anxiety, did not mean anything. It is then that I made the realization that anxiety was something you solve by forgetting. Anxiety itself is believing all the negative thoughts inside your head -- when you have it, you can't escape because you truly do BELIEVE those thoughts. The only way to cure yourself of anxiety is to somehow be able to surpress these negative thoughts for long enough, find ways of minimizing their impact on your life, until you forget them. But, having been thrown headfirst into this anxious panic, where all of these negative beliefs were for a moment truths, I felt an immense sadness that there was no hope for me to return to normal when this high ended, that I would have to reembark on the long arduous road to forgetting these truths once this was all over.
+
+It's impossible to know anxiety, precisely because it is only known from its absence. Deep in the throes of anxiety, you don't know how big it is, how much it affects your life, how many ways it manifests itself everyday. Mindfulness and therapy help identify each case as it arises, helping you identify the situations that make you feel uncomfortable, and the beliefs that you hold that make you feel uncomfortable in these situations. The goal is to eventually question these beliefs and realize that they're false, but that is altogether impossible for the anxious person, as having anxiety is the act of believing these things. It's only when you become more comfortable, when you surpress your triggers for long enough, that you can identify these truths aren't real. Paradoxically, it's only when you aren't anxious that you can see how false these "truths" are.
+
+I can't stress this enough. When you're anxious, you believe these negative thoughts. It's not enough to have known a life without anxiety, to have known that these things you believe right now were not true. The thing is, you believe they're true, and you have to work to put yourself in experiences and situations to challenge these truths and slowly chip away at them till you are removed enough to let them go.
+
+But there is something powerful that I took from this realization. I wrote this last night, as I was coming down and feeling better:
+
+>after making this realization, it becomes a game of QUESTIONING EVERYTHING, and through careful examination, revealing that things we thought were truths were just lies that we told ourselves. after this realization, we are able to make triggers disappear, by beginning with the pretense that nothing is true, nothing that doesn’t serve us in the path to freedom from the mind is true. if we keep the goal (and the FEELING of the goal) clearly in mind, no amount of fear would be even close to stopping us from getting closer to it.
+>
+>know you are worth everything. it’s not a pipe dream, no matter how much society wants to convince you that it is. being satisfied and happy with yourself is anti capitalist; beauty standards reinforce this capitalistic behavior, seemingly justified by theories of evolution and attraction, but we’re all living in a simulation. nothing has any inherent value; believe it or not, the ugly and the beautiful are of equal value.
+>
+>these insecurities had penetrated to the way i think. remember that fake it till u make it is not talking about faking the actions—- its talking about faking the mindset. you have to feel confident, trick ur mind if you have to. but realize that trick is the trick. it is how people are confident. because there really is no trick at all. we are all worth it enough to be confident. we all deserve to be confident.
+
+Obviously, I was a little high. But I think the ultimate message that one's self worth is innate and unquestionable is something we should all try to remember.
+
+PS: Magnesium saves lives. If you're prone to anxiety but still want to get high, take magnesium! God knows if I'd have been able to come out of this trip the same without it.
