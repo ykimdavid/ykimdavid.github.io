@@ -46,18 +46,16 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     -->
   </head>
-
-  <nav class="transparent z-depth-0">
-		<div class="nav-wrapper">
-		<a href="{{ site.baseurl }}/" class="brand-logo light">{{ site.name }}</a>
-			<ul id="nav-mobile" class="right hide-on-med-and-down">
-					<li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-					<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-			</ul>
-		</div>
-  </nav>
-
   <body class="blue-grey lighten-5">
+      <nav class="transparent z-depth-0">
+          <div class="nav-wrapper">
+          <a href="{{ site.baseurl }}/" class="brand-logo light">{{ site.name }}</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+            </ul>
+          </div>
+        </nav>
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
