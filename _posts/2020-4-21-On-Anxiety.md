@@ -11,10 +11,10 @@ Needless to say, last night was a traumatic experience for me, and I'm writing a
 
 Now to the actual events of last night. I took 10mg of edibles with my sister to celebrate 4/20/2020. We took them late, around 9:30 PM. I called two of my friends and we just hung out, playing jackbox games. At some point in the night, I got really self conscious and self-critical thoughts that I had surpressed to murmurs began to grow in strength. I felt awkward and judged for it, and just wanted to be alone. I told everyone I needed to sleep at around 12, and retreated to my bed. It was there, when I was alone with my thoughts, that I started to fall deeper into this pit of anxiety, a place that felt so familiar and that I worked so hard to get out of. In a panic that I would forget the practices and work that I had done to combat this anxiety, I wrote down this in my iphone:
 
->dont u ever forget
->you are in charge of ur thoughts
->you can always direct them to the positive
->the beautiful and the self affirming
+>dont u ever forget  
+>you are in charge of ur thoughts  
+>you can always direct them to the positive  
+>the beautiful and the self affirming  
 >that is the one true power you have
 
 It truly did feel like I was closing a door, that once I forgot this truth, that everything was in my head, I would have to work again to discover it. The fact that the light had been revealed to me before, that I had some progress in conquering my anxiety, did not mean anything. It is then that I made the realization that anxiety was something you solve by forgetting. Anxiety itself is believing all the negative thoughts inside your head -- when you have it, you can't escape because you truly do BELIEVE those thoughts. The only way to cure yourself of anxiety is to somehow be able to surpress these negative thoughts for long enough, find ways of minimizing their impact on your life, until you forget them. But, having been thrown headfirst into this anxious panic, where all of these negative beliefs were for a moment truths, I felt an immense sadness that there was no hope for me to return to normal when this high ended, that I would have to reembark on the long arduous road to forgetting these truths once this was all over.
