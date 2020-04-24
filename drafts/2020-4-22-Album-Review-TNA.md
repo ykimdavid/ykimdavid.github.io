@@ -12,6 +12,7 @@ Verdict: The Strokes are back baby! It's a great album.
 
 Tracklist:
 - The Adults are Talking
+    
 - Selfless
 - Brooklyn Bridge to Chorus
 - Bad Decisions
