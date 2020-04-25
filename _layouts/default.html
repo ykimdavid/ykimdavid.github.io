@@ -13,22 +13,25 @@
 
             .brand-logo{
                 color: black !important;
-                margin-left: 20px;
                 font-size: 20pt !important;
             }
 
+            .nav-wrapper{
+              padding-left: 20px;
+            }
+
             .main-block{
-                margin-top: 25%;
+              padding-top:10%;
             }
 
             a {
                 color: gray;
             }
 
-            #content{
-                height: 100%;
-                width: auto;
+            .posts > .post {
+              padding-bottom: 2em;
             }
+
 		</style>
 
     <!--[if lt IE 9]>
@@ -38,15 +41,15 @@
    
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now
-     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+     
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     -->
   </head>
   <body class="blue-grey lighten-5">
       <nav class="transparent z-depth-0">
-          <div class="nav-wrapper">
+        <div class="nav-wrapper">
           <a href="{{ site.baseurl }}/" class="brand-logo light">{{ site.name }}</a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <ul class="right">
                 <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
                 <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
             </ul>
@@ -55,15 +58,6 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
     {% include analytics.html %}
   </body>
 </html>
